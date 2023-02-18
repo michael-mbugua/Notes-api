@@ -11,8 +11,6 @@
  </hr>
   <h6>Register users</h6>
  <p>This api can create new users through the<b>POST</b> method to an endpoint that is shared below.After the user have been succesfully created he/she can be logged in usin the username and password given when registering.</p>
-  <h6>Store notes</h6>
- <p>This api can store notes first you have to create the note then <b>POST</b> it.It is connected to a PostgreSQL thats where the notes will be stored.</p>
  <h6>Store notes</h6>
  <p>This api can store notes first you have to create the note then <b>POST</b> it.It is connected to a PostgreSQL thats where the notes will be stored.</p>
  </br>

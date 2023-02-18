@@ -33,8 +33,8 @@
 
 <h2>Technologies used</h2>
 <ul>Ruby on Rails</ul>
-<ul>JWT</ul>- for password hashing
-<ul>Railway app</ul>- for Deploying
+<ul>JWT - for password hashing</ul>
+<ul>Railway app - for Deploying</ul>
 
 <h2>Database used</h2>
 <ul>PostgreSQL</ul>

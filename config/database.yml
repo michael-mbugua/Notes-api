@@ -24,5 +24,4 @@ test:
   database: Notes
 
 production:
-  <<: *default
-  database: Notes
+  url: <%= ENV["DATABASE_URL"] %>
